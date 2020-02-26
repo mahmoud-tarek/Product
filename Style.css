@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'segoe ui light';
+}
+
+.container
+{
+    background-color: #fff !important;
+    box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+}
+
+.search-group
+{
+    text-align: center;
+}
+
+.product
+{
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.layer
+{
+    border: 1px solid #ec3237;
+    border-radius: 20px;
+    background-color: aliceblue;
+    text-align: center;
+    padding: 15px 0px;
+}
+
+.light
+{
+    color: rgb(200,200,200);
+}
+
+.cut
+{
+    color: #000;
+}
